@@ -6,4 +6,5 @@ so I start from the structs exercises
 - structs
 - enums
 - strings
+- modules
 - 
